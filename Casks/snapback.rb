@@ -1,6 +1,6 @@
 cask "snapback" do
-  version "1.0.3"
-  sha256 "fa6dbfc2aeb465c201c54438d50f97ede91d7ca167ec8419592ba07616f7157f" # Make sure to put the actual shasum output here!
+  version "1.0.4"
+  sha256 "bf6029eec2f963e94a55091f76855d974c07d58684fdf7ba656413542146cb67" # Make sure to put the actual shasum output here!
 
   url "https://github.com/arunofhyd/SnapBack/releases/download/v#{version}/SnapBack.zip"
   name "SnapBack"
